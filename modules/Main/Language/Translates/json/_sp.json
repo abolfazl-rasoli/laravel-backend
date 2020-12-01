@@ -1,0 +1,7 @@
+{
+    "not_expire_register_verification" : "محدوده زمانی :tex ثانیه به پایان نرسیده است",
+    "subject_register_verification" :  " کد فعال سازی شما در :appname ",
+    "tempPassword" :   "یک رمز موقت به ایمیل شما ارسال شد. \n مدت زمان اعتبار :tfp ثانیه",
+    "subject_forget_password" :   " رمز موقت شما در :appname",
+    "subject_forget_password2" :   " رمز موقت شما در :appname"
+}
